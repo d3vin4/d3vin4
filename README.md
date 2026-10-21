@@ -17,9 +17,6 @@
 ## About
 
 - 👋 Hi, I'm **Divine** — a vibe coder and an iOS researcher
-- 🧠 I take things apart to see how they work: App Store internals, FairPlay, DRM, Mach-O and the binaries behind them
-- 🛠️ I write tools that live in the terminal — Swift, C++ and Rust, mostly on Linux and Termux
-- 🔭 Currently digging into Apple's FairPlay key hierarchy and building offline decryption pipelines
 
 ---
 
@@ -39,10 +36,3 @@
 
 - GitHub: [github.com/d3vin4](https://github.com/d3vin4)
 - Email: [baoamai6@gmail.com](mailto:baoamai6@gmail.com)
-
----
-
-<div align="center">
-
-**Made with curiosity and a terminal.**
-</div>
